@@ -37,6 +37,7 @@ export default Vue.component('ele', {
         handleClick: function () {
             this.$message.info('This is a normal message');
             console.log(this.foo)
+            console.log("this is test")
         }
     }
 });
