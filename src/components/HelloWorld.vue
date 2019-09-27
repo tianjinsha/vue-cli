@@ -6,6 +6,7 @@
 	<a-button type="primary">Primary</a-button>	
 	<a-button type="primary">Primary</a-button>	
 	<a-button type="primary">Primary</a-button>	
+	<a-button type="primary">def</a-button>	
   </div>
 </template>
 
